@@ -1,0 +1,54 @@
+{
+  "split": "EDGE_CASES",
+  "total_records": 5,
+  "records": [
+    {
+      "source_id": "SRC-OBS-901",
+      "scenario_id": "SCN-006",
+      "expected_activity_ids": [],
+      "expected_outcome": "UNMATCHED",
+      "raw_snippet": "Constructed temporary timber bypass culvert near stream Ch 12+800 to facilitate crane movement.",
+      "split_type": "EDGE"
+    },
+    {
+      "source_id": "SRC-OBS-902A",
+      "scenario_id": "SCN-007",
+      "expected_activity_ids": [
+        "ACT-1012"
+      ],
+      "expected_outcome": "CONFLICTED",
+      "raw_snippet": "Mainline Pipe Stringing & Welding Sec 1 Km 0 to 2 (ACT-1012) 100% completed today.",
+      "split_type": "EDGE"
+    },
+    {
+      "source_id": "SRC-OBS-902B",
+      "scenario_id": "SCN-007",
+      "expected_activity_ids": [
+        "ACT-1012"
+      ],
+      "expected_outcome": "CONFLICTED",
+      "raw_snippet": "Radiography NDT inspection for Sec 1 Km 0 to 2 failed on Joints J-14 and J-19 due to lack of penetration. Rework required.",
+      "split_type": "EDGE"
+    },
+    {
+      "source_id": "SRC-OBS-903",
+      "scenario_id": "SCN-013",
+      "expected_activity_ids": [
+        "ACT-1013"
+      ],
+      "expected_outcome": "EVIDENCE_GAP",
+      "raw_snippet": "Zero field execution reports logged for active critical path task ACT-1013 in last 8 days.",
+      "split_type": "EDGE"
+    },
+    {
+      "source_id": "SRC-OBS-904",
+      "scenario_id": "SCN-014",
+      "expected_activity_ids": [
+        "ACT-1019"
+      ],
+      "expected_outcome": "OUT_OF_SEQUENCE_WARNING",
+      "raw_snippet": "Mainline Lowering & Backfilling Sec 1 Km 4.0 to 6.0 completed 150m.",
+      "split_type": "EDGE"
+    }
+  ]
+}
