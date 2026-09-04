@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 e1918241b0b398ada888c1ef7476fa862636b398 InnoShay <luckyjournals@gmail.com> 1788512029 +0530	clone: from https://github.com/Neemayg/SATYA_Oil_India_SIH.git
+e1918241b0b398ada888c1ef7476fa862636b398 a69d2ebc89a56c38d9b20ee0e2ce0ec706ad42e6 InnoShay <luckyjournals@gmail.com> 1788524238 +0530	pull: Fast-forward
+a69d2ebc89a56c38d9b20ee0e2ce0ec706ad42e6 fbf0f72b1aa52d9e5da982fc68e4ace5d878463f InnoShay <luckyjournals@gmail.com> 1788539282 +0530	commit: feat(ui): initialize modern React frontend and add UI assets for new design
+fbf0f72b1aa52d9e5da982fc68e4ace5d878463f a69d2ebc89a56c38d9b20ee0e2ce0ec706ad42e6 InnoShay <luckyjournals@gmail.com> 1788539421 +0530	reset: moving to HEAD~1
+a69d2ebc89a56c38d9b20ee0e2ce0ec706ad42e6 62ef40968d060000e399b52be575fd0147179f05 InnoShay <luckyjournals@gmail.com> 1788539473 +0530	pull --rebase origin main: Fast-forward
+62ef40968d060000e399b52be575fd0147179f05 15928cc32cd22110031510c916a2e02d44540eda InnoShay <luckyjournals@gmail.com> 1788539504 +0530	commit: feat(ui): add UI assets and initialize modern React frontend in frontend-v2
